@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/ws/rs/javax.ws.rs-api/2.1.1/javax.ws.rs-api-2.1.1.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/kafka/kafka-streams/2.4.0/kafka-streams-2.4.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/kafka/kafka-clients/2.4.0/kafka-clients-2.4.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/github/luben/zstd-jni/1.4.3-1/zstd-jni-1.4.3-1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/lz4/lz4-java/1.6.0/lz4-java-1.6.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/xerial/snappy/snappy-java/1.1.7.3/snappy-java-1.1.7.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.28/slf4j-api-1.7.28.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/kafka/connect-json/2.4.0/connect-json-2.4.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/kafka/connect-api/2.4.0/connect-api-2.4.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.10.0/jackson-databind-2.10.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.10.0/jackson-annotations-2.10.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.10.0/jackson-core-2.10.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.10.0/jackson-datatype-jdk8-2.10.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/rocksdb/rocksdbjni/5.18.3/rocksdbjni-5.18.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/opencv/opencv/4.2.0/opencv-4.2.0.jar"/>
+</classpath>
